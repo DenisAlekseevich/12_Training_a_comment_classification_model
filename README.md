@@ -1,0 +1,2 @@
+# Training_a_comment_classification_model
+Обучение модели классификации комментариев
